@@ -32,7 +32,7 @@
 
 ## 👨‍⚕️ Roles Simulados
 
-Aunque no se ha implementado control de acceso por roles, las vistas están organizadas para simular el flujo de trabajo por perfiles:
+Aunque no se implementó dentro de la aplicación control de acceso por roles, las vistas están organizadas para simular el flujo de trabajo por perfiles:
 
 - **Administrador**: gestiona odontólogos y tratamientos.
 - **Recepcionista**: registra pacientes y turnos.
