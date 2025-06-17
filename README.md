@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo de este Proyecto
 
 - Centralizar la información clínica y administrativa.
 - Optimizar la gestión de turnos, profesionales y pacientes.
@@ -25,8 +25,8 @@
 | **Odontólogos**| ✅     | Gestión completa: nombre, matrícula, especialidad |
 | **Turnos**     | ✅     | Asignación con estado, fecha y duración por paciente y profesional |
 | **Tratamientos**| ✅    | ABM completo de servicios clínicos prestados |
-| **Plan de tratamiento** | ❌     | No implementado en esta versión |
-| **Autenticación por roles** | ❌ | No disponible aún (sin login) |
+| **Plan de tratamiento** | ❌     | No implementado |
+| **Autenticación por roles** | ❌ | No disponibl en esta versión (sin login) |
 
 ---
 
