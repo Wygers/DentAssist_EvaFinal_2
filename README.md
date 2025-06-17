@@ -63,4 +63,4 @@ Aunque no se implementó dentro de la aplicación control de acceso por roles, l
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/DentAssist.git
+    git clone https://github.com/Wygers/DentAssist_EvaFinal_U2.git
