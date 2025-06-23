@@ -26,7 +26,7 @@
 | **Turnos**     | ✅     | Asignación con estado, fecha y duración por paciente y profesional |
 | **Tratamientos**| ✅    | ABM completo de servicios clínicos prestados |
 | **Plan de tratamiento** | ❌     | No implementado |
-| **Autenticación por roles** | ❌ | No disponibl en esta versión (sin login) |
+| **Autenticación por roles** | ❌ | No disponible en esta versión (no tiene login) |
 
 ---
 
